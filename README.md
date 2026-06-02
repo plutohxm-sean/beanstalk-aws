@@ -1,1 +1,1 @@
-# beanstalk-aws
+# beanstalk-aws-information
